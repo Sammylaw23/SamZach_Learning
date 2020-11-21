@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\bin\Debug\SamZach.Learning.exe.config
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\bin\Debug\SamZach.Learning.exe
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\bin\Debug\SamZach.Learning.pdb
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\bin\Debug\SamZach.Learning.LibraryOne.dll
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\bin\Debug\SamZach.Learning.LibraryOne.pdb
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\obj\Debug\SamZach.Learning.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\obj\Debug\SamZach.Learning.csproj.CopyComplete
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\obj\Debug\SamZach.Learning.exe
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning\obj\Debug\SamZach.Learning.pdb

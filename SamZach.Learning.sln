@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamZach.Learning", "SamZach.Learning\SamZach.Learning.csproj", "{96D6BF5A-4D53-4BC2-962C-C66059CE2010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamZach.Learning.LibraryOne", "SamZach.Learning.LibraryOne\SamZach.Learning.LibraryOne.csproj", "{EA5B5132-8E77-4FB3-A351-C2FAF0018A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D6BF5A-4D53-4BC2-962C-C66059CE2010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D6BF5A-4D53-4BC2-962C-C66059CE2010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D6BF5A-4D53-4BC2-962C-C66059CE2010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D6BF5A-4D53-4BC2-962C-C66059CE2010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5B5132-8E77-4FB3-A351-C2FAF0018A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5B5132-8E77-4FB3-A351-C2FAF0018A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5B5132-8E77-4FB3-A351-C2FAF0018A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5B5132-8E77-4FB3-A351-C2FAF0018A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2ED646C-7A4A-4077-9107-D939CC839008}
+	EndGlobalSection
+EndGlobal

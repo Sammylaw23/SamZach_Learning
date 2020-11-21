@@ -1,0 +1,5 @@
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning.LibraryOne\bin\Debug\SamZach.Learning.LibraryOne.dll
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning.LibraryOne\bin\Debug\SamZach.Learning.LibraryOne.pdb
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning.LibraryOne\obj\Debug\SamZach.Learning.LibraryOne.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning.LibraryOne\obj\Debug\SamZach.Learning.LibraryOne.dll
+C:\Users\HP\source\repos\SamZach.Learning\SamZach.Learning.LibraryOne\obj\Debug\SamZach.Learning.LibraryOne.pdb
